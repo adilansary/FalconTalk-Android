@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="AutoDiscovery">
+    <classes>
+      <class name="com.FalconTalk.AutoDiscovery.AutoDiscovery"/>
+    </classes>
+    </test>
+    <test thread-count="5" name="About">
+    <classes>
+      <class name="com.FalconTalk.Basic.About"/>
+    </classes>
+    </test>
+    
+    <test thread-count="5" name="ExtensionRingGroupAxxess">
+    <classes>
+      <class name="com.FalconTalk.ExtRingGroup.ExtensionRingGroupAxxess"/>
+    </classes>
+    </test>
+    
+    <test thread-count="5" name="Keypad">
+    <classes>
+      <class name="com.FalconTalk.Keypad.Keypad"/>
+    </classes>
+    </test>
+    
+    <test thread-count="5" name="PreviousConfig">
+    <classes>
+      <class name="com.FalconTalk.PreviousConfig.PreviousConfig"/>
+    </classes>
+    </test>
+    
+    <test thread-count="5" name="ProfileDetails">
+    <classes>
+      <class name="com.FalconTalk.ProfileDetails.ProfileDetails"/>
+    </classes>
+    </test>
+    
+    <test thread-count="5" name="AddProfileCabinProfile">
+    <classes>
+      <class name="com.FalconTalk.ManualAccountConfiguration.CabinProfile"/>
+    </classes>
+    </test>
+    
+    <test thread-count="5" name="AddProfileExtensionSelectionProfile">
+    <classes>
+      <class name="com.FalconTalk.ManualAccountConfiguration.ExtensionSelectionProfile"/>
+    </classes>
+    </test>
+    
+    <test thread-count="5" name="AddProfileManufacturerProfile">
+    <classes>
+      <class name="com.FalconTalk.ManualAccountConfiguration.ManufacturerProfile"/>
+    </classes>
+    </test>
+    
+    <test thread-count="5" name="AddProfileManufacturerCustomProfile">
+    <classes>
+      <class name="com.FalconTalk.ManualAccountConfiguration.CustomAccountConfiguration"/>
+    </classes>
+    </test>
+
+    <test thread-count="5" name="ContactsFunctionality">
+      <classes>
+        <class name="com.FalconTalk.ContactsFunctionality.ContactsFunctionality"/>
+      </classes>
+    </test>
+
+    <test thread-count="5" name="ContactsFunctionalityFromHistoryDetails">
+      <classes>
+        <class name="com.FalconTalk.ContactsFunctionality.ContactsFunctionalityFromHistoryDetails"/>
+      </classes>
+    </test>
+
+    <test thread-count="5" name="ContactsFunctionalityFromKeypad">
+      <classes>
+        <class name="com.FalconTalk.ContactsFunctionality.ContactsFunctionalityFromKeypad"/>
+      </classes>
+    </test>
+
+    <test thread-count="5" name="FavoritesFunctionality">
+      <classes>
+        <class name="com.FalconTalk.FavoritesFunctionality.FavoritesFunctionality"/>
+      </classes>
+    </test>
+
+  <test thread-count="5" name="HistoryFunctionality">
+    <classes>
+      <class name="com.FalconTalk.HistoryFunctionality.HistoryFunctionality"/>
+    </classes>
+  </test>
+    
+    <test thread-count="5" name="CabinModeConfiguration">
+    <classes>
+      <class name="com.FalconTalk.CabinModeConfiguration.ConfigureCabinDevice"/>
+    </classes>
+    </test>
+    
+    <test thread-count="5" name="VefifyCabinDevice">
+    <classes>
+      <class name="com.FalconTalk.CabinModeConfiguration.VerifyCabinDevice"/>
+    </classes>
+    </test>
+
+    
+</suite> <!-- Suite -->

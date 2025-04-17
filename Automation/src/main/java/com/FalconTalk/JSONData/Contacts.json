@@ -1,0 +1,169 @@
+{
+  "contactsdetails": [
+    {
+      "prefix": "Ada",
+      "fname": "Bell",
+      "mname": "Damy",
+      "lname": "Doshan",
+      "sufix": "Kumara",
+      "phone": "01796704500",
+      "email": "test@gmail.com"
+    },
+    {
+      "prefix": "Frank",
+      "fname": "Eni",
+      "mname": "De",
+      "lname": "Costa",
+      "sufix": "lola",
+      "phone": "01796704501",
+      "email": "test1@gmail.com"
+    },
+    {
+      "prefix": "Mis",
+      "fname": "Pierre",
+      "mname": "Mari",
+      "lname": "Deo",
+      "sufix": "kakkar",
+      "phone": "01796704502",
+      "email": "test2@gmail.com"
+    },
+    {
+      "prefix": "Mr",
+      "fname": "Louise",
+      "mname": "Belle",
+      "lname": "Amandine",
+      "sufix": "Damy",
+      "phone": "01796704503",
+      "email": "test3@gmail.com"
+    }
+  ],
+  "keypadContactsDB": [
+    {
+      "prefix": "Ada K",
+      "fname": "Bell",
+      "mname": "Damy",
+      "lname": "Doshan",
+      "sufix": "Kumara",
+      "phone": "0166704500",
+      "email": "test@gmail.com"
+    },
+    {
+      "prefix": "Frank K",
+      "fname": "Eni",
+      "mname": "De",
+      "lname": "Costa",
+      "sufix": "lola",
+      "phone": "01696704501",
+      "email": "test1@gmail.com"
+    },
+    {
+      "prefix": "Mis K",
+      "fname": "Pierre",
+      "mname": "Mari",
+      "lname": "Deo",
+      "sufix": "kakkar",
+      "phone": "01696704502",
+      "email": "test2@gmail.com"
+    }
+  ],
+  "ExistingContactDB": [
+    {
+      "prefix": "Ada K",
+      "fname": "Bell Ex",
+      "mname": "Damy",
+      "lname": "Doshan",
+      "sufix": "Kumara",
+      "phone": "0156704500",
+      "email": "test@gmail.com",
+      "PrePhone": "0166704500"
+    },
+    {
+      "prefix": "Frank K",
+      "fname": "Eni EX",
+      "mname": "De",
+      "lname": "Costa",
+      "sufix": "lola",
+      "phone": "01596704501",
+      "email": "test1@gmail.com",
+      "PrePhone": "01696704501"
+    },
+    {
+      "prefix": "Mis K",
+      "fname": "Pierre EX",
+      "mname": "Mari",
+      "lname": "Deo",
+      "sufix": "kakkar",
+      "phone": "01596704502",
+      "email": "test2@gmail.com",
+      "PrePhone": "01696704502"
+    }
+  ],
+
+  "ContactFromHistory": [
+    {
+      "prefix": "Mike",
+      "fname": "jar",
+      "mname": "martin",
+      "lname": "De",
+      "sufix": "Rojario",
+      "phone": "01896704500",
+      "email": "Roja@gmail.com",
+      "PrePhone": "01996704500"
+    },
+    {
+      "prefix": "Alisan",
+      "fname": "Alp",
+      "mname": "Arsalan",
+      "lname": "moro",
+      "sufix": "sha",
+      "phone": "01896704501",
+      "email": "Kirat@gmail.com",
+      "PrePhone": "01996704501"
+    }
+  ],
+    "AddToExistingContactFromHistoryDB": [
+      {
+        "prefix": "Jr.",
+        "fname": "Robarto",
+        "mname": "Karno",
+        "lname": "De",
+        "sufix": "Rain",
+        "phone": "32323232",
+        "email": "RobartoDe@gmail.com",
+        "PrePhone": "01896704500"
+      },
+      {
+        "prefix": "KM.",
+        "fname": "Arno",
+        "mname": "Bayjuk",
+        "lname": "Rio",
+        "sufix": "Sheljuk",
+        "phone": "23232323232",
+        "email": "ArnoRio@gmail.com",
+        "PrePhone": "01896704501"
+      }
+    ],
+
+  "NewContactFromBuddyDetailsDB": [
+    {
+      "prefix": "Ben",
+      "fname": "Brosh",
+      "mname": "Dior",
+      "lname": "De",
+      "sufix": "Kosta",
+      "phone": "0111411232",
+      "email": "Ben@gmail.com",
+      "searchnumber": "14805539877"
+    },
+    {
+      "prefix": "Buro",
+      "fname": "Karan",
+      "mname": "leo",
+      "lname": "Harsh",
+      "sufix": "Lu",
+      "phone": "01113213312",
+      "email": "Buro@gmail.com",
+      "searchnumber": "14802103658"
+    }
+  ]
+}
